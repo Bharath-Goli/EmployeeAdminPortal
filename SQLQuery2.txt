@@ -1,0 +1,7 @@
+﻿use EmployeeDB;
+
+insert into Employees values('123e4567-e89b-12d3-a456-426614174001','pandu','cba@gmail.com','834176475',80001);
+
+
+
+select * from Employees;
